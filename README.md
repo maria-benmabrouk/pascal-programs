@@ -36,5 +36,10 @@ You can compile and run these programs using a Pascal compiler such as:
 - **Free Pascal (FPC)**
 - **Turbo Pascal**
 
+---
+
 ## 👩‍💻 Author
 **Maria Benmabrouk**
+
+---
+
