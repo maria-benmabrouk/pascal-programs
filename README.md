@@ -36,11 +36,5 @@ You can compile and run these programs using a Pascal compiler such as:
 - **Free Pascal (FPC)**
 - **Turbo Pascal**
 
-### Using Free Pascal:
-```bash
-fpc program_name.pas
-./program_name
-
-
 ## 👩‍💻 Author
 **Maria Benmabrouk**
